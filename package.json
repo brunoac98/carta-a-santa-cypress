@@ -1,0 +1,19 @@
+{
+  "name": "js-xmas-edition-master-mio",
+  "version": "1.0.0",
+  "description": "regalo santa",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  },
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  },
+  "scripts": {
+    "empezar": "http-server",
+    "cypress-run": "cypress run",
+    "cypress-dev": "cypress open"
+  },
+  "author": "bruno",
+  "license": "ISC"
+}
